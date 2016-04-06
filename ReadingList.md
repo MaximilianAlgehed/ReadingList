@@ -7,3 +7,4 @@
 * A taste of category theory for computer scientists - Pierce
 * The algebra of programming - Bird & De Moor
 * Functional geometry - Henderson
+* The design of a pretty printing library (again...) - Hughes
