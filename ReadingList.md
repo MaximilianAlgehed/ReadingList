@@ -6,3 +6,4 @@
 * Testing monadic code with QuickSpec - Hughes & Claessen
 * A taste of category theory for computer scientists - Pierce
 * The algebra of programming - Bird & De Moor
+* Functional geometry - Henderson
