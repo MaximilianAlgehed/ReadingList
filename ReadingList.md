@@ -8,3 +8,4 @@
 * The algebra of programming - Bird & De Moor
 * Functional geometry - Henderson
 * The design of a pretty printing library (again...) - Hughes
+* Mathematics form and function - Mac Lane
