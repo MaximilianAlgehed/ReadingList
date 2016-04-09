@@ -9,4 +9,4 @@
 * Functional geometry - Henderson
 * The design of a pretty printing library (again...) - Hughes
 * Mathematics form and function - Mac Lane
-* SmallCheck and Lazy Small Check - Runciman, Nayor & Lindblad
+* SmallCheck and Lazy SmallCheck - Runciman, Nayor & Lindblad
