@@ -10,3 +10,4 @@
 * The design of a pretty printing library (again...) - Hughes
 * Mathematics form and function - Mac Lane
 * SmallCheck and Lazy SmallCheck - Runciman, Nayor & Lindblad
+* Introduction to topology - Mendelson
