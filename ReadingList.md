@@ -9,5 +9,6 @@
 * Functional geometry - Henderson
 * The design of a pretty printing library (again...) - Hughes
 * Mathematics form and function - Mac Lane
-* SmallCheck and Lazy SmallCheck - Runciman, Nayor & Lindblad
+* SmallCheck and Lazy SmallCheck - Runciman, Nayor, & Lindblad
 * Introduction to topology - Mendelson
+* Desugaring Haskell's do-notation Into Applicative Operations - Marlow, Jones, Kmett, & Mokhov
