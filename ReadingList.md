@@ -12,3 +12,4 @@
 * SmallCheck and Lazy SmallCheck - Runciman, Nayor, & Lindblad
 * Introduction to topology - Mendelson
 * Desugaring Haskell's do-notation Into Applicative Operations - Marlow, Jones, Kmett, & Mokhov
+* Beautiful Differentiation - Elliot
