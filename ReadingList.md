@@ -14,4 +14,4 @@
 * Desugaring Haskell's do-notation Into Applicative Operations - Marlow, Jones, Kmett, & Mokhov
 * Beautiful Differentiation - Elliott
 * Fast and loose reasoning is morally correct - Hughes, Jansson, Danielsson, & Gibbons
-* Types and programming languages - Pierece
+* Types and programming languages - Pierce
