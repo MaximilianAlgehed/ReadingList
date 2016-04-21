@@ -15,3 +15,4 @@
 * Beautiful Differentiation - Elliott
 * Fast and loose reasoning is morally correct - Hughes, Jansson, Danielsson, & Gibbons
 * Types and programming languages - Pierce
+* Backpack to Work: Towards Practical Mixin Linking for Haskell - Yang, Kilpatrick, Dreyer, & Jones 
