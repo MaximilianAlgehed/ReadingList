@@ -20,3 +20,4 @@
 * The Reduceron: Widening the Von Neumann Bottleneck using an FPGA - Naylor & Runciman
 * The Design and Verification of a Sorter Core - Claessen, Sheeran, & Singh
 * Introduction to VLSI systems - Mead & Conway
+* Sorting Networks and their applications - Batcher
