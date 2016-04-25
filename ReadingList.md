@@ -17,3 +17,4 @@
 * Types and programming languages - Pierce
 * Backpack to Work: Towards Practical Mixin Linking for Haskell - Yang, Kilpatrick, Dreyer, & Jones 
 * The Haskell School of Expression - Hudak
+* The Reduceron: Widening the Von Neumann Bottleneck using an FPGA
