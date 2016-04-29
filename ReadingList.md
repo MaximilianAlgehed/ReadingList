@@ -21,3 +21,4 @@
 * The Design and Verification of a Sorter Core - Claessen, Sheeran, & Singh
 * Introduction to VLSI systems - Mead & Conway
 * Sorting Networks and their applications - Batcher
+* The Study of Butteflies - Sheeran & Jones
