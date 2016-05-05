@@ -22,3 +22,4 @@
 * Introduction to VLSI systems - Mead & Conway
 * Sorting Networks and their applications - Batcher
 * The Study of Butteflies - Sheeran & Jones
+* Symbolic Simulation of Microprocessor Models Using Type Classes in Haskell - Day, Lewis, & Cook
