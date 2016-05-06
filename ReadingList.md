@@ -24,3 +24,4 @@
 * The Study of Butteflies - Sheeran & Jones
 * Symbolic Simulation of Microprocessor Models Using Type Classes in Haskell - Day, Lewis, & Cook
 * Lava: Hardware Design in Haskell - Bjesse, Claessen, Sheeran, & Singh
+* Puzzling Permutations - Sheeran
