@@ -26,3 +26,4 @@
 * Lava: Hardware Design in Haskell - Bjesse, Claessen, Sheeran, & Singh
 * Puzzling Permutations - Sheeran
 * Testing Type Class Laws - Jansson, Jeuring, & Amaral
+* An Introduction to Knuth-Bendix Completion - Dick
