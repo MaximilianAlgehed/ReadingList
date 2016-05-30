@@ -29,3 +29,4 @@
 * An Introduction to Knuth-Bendix Completion - Dick
 * On Computable Numbers, With an Application to the Entscheidungsproblem - Turing
 * Curry, An Integrated Functional Logic Language - Hanus et. al.
+* An Array-Oriented Language with Static Rank Polymorphism - Slepak, Shivers, Manolios
